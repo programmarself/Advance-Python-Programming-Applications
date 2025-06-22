@@ -17,6 +17,10 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       filename: "Iterators.ipynb",
       url: "notebooks/Iterators.ipynb"
+    },
+     {
+      filename: "17-Selecting-Elements.ipynb",
+      url: "notebooks/17-Selecting-Elements.ipynb"
     }
   ];
 
