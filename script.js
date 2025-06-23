@@ -147,8 +147,8 @@ document.addEventListener("DOMContentLoaded", () => {
       url: "notebooks/imdb_urdu_reviews_test.csv"
     },
     {
-      filename: "Advanced Python Programming & Applications.pdf",
-      url: "notebooks/Advanced Python Programming & Applications.pdf"
+      filename: "Advanced Python Programming and Applications.pdf",
+      url: "notebooks/Advanced Python Programming and Applications.pdf"
     }
   ];
 
