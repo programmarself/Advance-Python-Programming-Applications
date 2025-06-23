@@ -842,7 +842,7 @@ header {
 
 /* About Hero Variant */
 .about-hero {
-  background: linear-gradient(rgba(20, 33, 61, 0.9), rgba(20, 33, 61, 0.9)), url('images/about-bg.jpg') center/cover;
+  background: linear-gradient(rgba(67, 97, 238, 0.9), rgba(58, 12, 163, 0.9)), url('images/about-bg.jpg') center/cover;
 }
 
 /* Resources Hero Variant */
