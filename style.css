@@ -340,12 +340,12 @@ header {
 }
 
 .profile-img {
-  flex: 0 0 50px;
+  flex: 0 0 300px;
 }
 
 .profile-img img {
-  width: 80%;
-  height: 80%;
+  width: 50%;
+  height: 50%;
   object-fit: cover;
 }
 
