@@ -139,8 +139,8 @@ document.addEventListener("DOMContentLoaded", () => {
       url: "notebooks/English.csv"
     },
     {
-      filename: "imdb-urdu-reviews-train.csv",
-      url: "notebooks/imdb-urdu-reviews-train.csv"
+      filename: "urdu-train.csv",
+      url: "notebooks/urdu.train.csv"
     },
     {
       filename: "imdb-urdu-reviews-test.csv",
