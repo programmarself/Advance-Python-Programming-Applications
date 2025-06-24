@@ -139,12 +139,16 @@ document.addEventListener("DOMContentLoaded", () => {
       url: "notebooks/English.csv"
     },
     {
-      filename: "imdb_urdu_reviews_train.csv",
-      url: "notebooks/imdb_urdu_reviews_train.csv"
+      filename: "imdb-urdu-reviews-train.csv",
+      url: "notebooks/imdb-urdu-reviews-train.csv"
     },
     {
-      filename: "imdb_urdu_reviews_test.csv",
-      url: "notebooks/imdb_urdu_reviews_test.csv"
+      filename: "imdb-urdu-reviews-test.csv",
+      url: "notebooks/imdb-urdu-reviews-test.csv"
+    },
+     {
+      filename: "Advanced-Python-Programming-and-Applications.pdf",
+      url: "notebooks/Advanced-Python-Programming-and-Applications.pdf"
     }
   ];
 
