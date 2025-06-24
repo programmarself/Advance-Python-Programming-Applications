@@ -138,10 +138,9 @@ document.addEventListener("DOMContentLoaded", () => {
       filename: "English.csv",
       url: "notebooks/English.csv"
     },
-    
      {
-      filename: "Advanced-Python-Programming-and-Applications.pdf",
-      url: "notebooks/Advanced-Python-Programming-and-Applications.pdf"
+      filename: "Advanced Python.pdf",
+      url: "notebooks/Advanced Python.pdf"
     }
   ];
 
