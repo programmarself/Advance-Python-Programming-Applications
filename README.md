@@ -3,6 +3,8 @@ Government of Pakistan
 National Vocational and Technical Training Commission
 Prime Minister Hunarmand Pakistan Program,
 "Skills for All"
+![BOOK Cover Final](https://github.com/user-attachments/assets/f07bf9e1-598d-4eb6-a663-383e9a3e4e4e)
+
 
 ![image](https://github.com/user-attachments/assets/66950914-431f-4eee-a99c-2793661f146d)
 
