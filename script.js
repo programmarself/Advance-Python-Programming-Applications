@@ -138,14 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
       filename: "English.csv",
       url: "notebooks/English.csv"
     },
-    {
-      filename: "urdu-train.csv",
-      url: "notebooks/urdu.train.csv"
-    },
-    {
-      filename: "imdb-urdu-reviews-test.csv",
-      url: "notebooks/imdb-urdu-reviews-test.csv"
-    },
+    
      {
       filename: "Advanced-Python-Programming-and-Applications.pdf",
       url: "notebooks/Advanced-Python-Programming-and-Applications.pdf"
